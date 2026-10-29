@@ -13,6 +13,7 @@ Search, filter by city and role, and get a free weekly email of new roles at **[
 
 ## Contents
 
+- [Which AI companies sponsor visas in the UK and the Netherlands?](#which-ai-companies-sponsor-visas-in-the-uk-and-the-netherlands) (80 companies)
 - [United Kingdom](#-united-kingdom) (388)
   - [AI & ML engineering](#ai--ml-engineering-uk) (251)
   - [Forward-deployed engineering](#forward-deployed-engineering-uk) (73)
@@ -24,6 +25,97 @@ Search, filter by city and role, and get a free weekly email of new roles at **[
   - [Data science](#data-science-nl) (1)
 - [How this list is made](#how-this-list-is-made)
 - [Data and licence](#data-and-licence)
+
+## Which AI companies sponsor visas in the UK and the Netherlands?
+
+**80 companies with open AI, ML or data roles today are on an official sponsor register**: 67 on the UK Home Office register of licensed sponsors and 19 on the Dutch IND register of recognised sponsors. The most open roles are at Faculty (42), Amazon (32), Mistral AI (30), Anthropic (16) and Databricks (16).
+
+The table gives the legal entity each one is registered under, which is often not the brand name. Being on a register means the company *can* sponsor a visa; the last columns show how many of its postings mention sponsorship, and what pay they state.
+
+| Company | Open roles | Registered as | Postings mentioning sponsorship | Stated pay |
+|---|---|---|---|---|
+| [Faculty](https://aiexpatjobs.com/employers/faculty/) | 42 | 🇬🇧 Faculty Science Limited |  |  |
+| [Amazon](https://aiexpatjobs.com/employers/amazon/) | 32 | 🇬🇧 Amazon UK Services Ltd · 🇳🇱 Amazon Development Center (Netherlands) B.V. |  |  |
+| [Mistral AI](https://aiexpatjobs.com/employers/mistral-ai/) | 30 | 🇬🇧 Mistral AI UK Limited · 🇳🇱 Mistral AI NL B.V. |  |  |
+| [Anthropic](https://aiexpatjobs.com/employers/anthropic/) | 16 | 🇬🇧 Anthropic Limited | 15 | £150k–£640k |
+| [Databricks](https://aiexpatjobs.com/employers/databricks/) | 16 | 🇬🇧 Databricks UK Limited · 🇳🇱 Databricks |  |  |
+| [Wayve](https://aiexpatjobs.com/employers/wayve/) | 16 | 🇬🇧 Wayve Technologies Ltd | 4 |  |
+| [Palantir](https://aiexpatjobs.com/employers/palantir/) | 14 | 🇬🇧 Palantir Technologies UK Limited |  |  |
+| [Wise](https://aiexpatjobs.com/employers/wise/) | 13 | 🇬🇧 Wise Payments Limited |  | £90k–£182k |
+| [Monzo](https://aiexpatjobs.com/employers/monzo/) | 11 | 🇬🇧 Monzo Bank Ltd | 10 | £79k–£176k |
+| [Nebius](https://aiexpatjobs.com/employers/nebius/) | 11 | 🇬🇧 Nebius UK Ltd · 🇳🇱 Nebius B.V. |  |  |
+| [ASOS](https://aiexpatjobs.com/employers/asos/) | 10 | 🇬🇧 ASOS.com |  |  |
+| [Deliveroo](https://aiexpatjobs.com/employers/deliveroo/) | 10 | 🇬🇧 Roofoods Ltd t/a Deliveroo |  |  |
+| [OpenAI](https://aiexpatjobs.com/employers/openai/) | 10 | 🇬🇧 OpenAI UK Ltd |  |  |
+| [Intercom](https://aiexpatjobs.com/employers/intercom/) | 9 | 🇬🇧 Intercom Software UK Limited |  |  |
+| [Adyen](https://aiexpatjobs.com/employers/adyen/) | 8 | 🇳🇱 Adyen Netherlands B.V. |  |  |
+| [Cohere](https://aiexpatjobs.com/employers/cohere/) | 8 | 🇬🇧 Cohere UK Ltd |  |  |
+| [ElevenLabs](https://aiexpatjobs.com/employers/elevenlabs/) | 8 | 🇬🇧 Eleven Labs Ltd |  |  |
+| [Spotify](https://aiexpatjobs.com/employers/spotify/) | 8 | 🇬🇧 Spotify Limited |  |  |
+| [Trainline](https://aiexpatjobs.com/employers/trainline/) | 8 | 🇬🇧 Trainline.com Ltd |  | £80k–£108k |
+| [Apollo Research](https://aiexpatjobs.com/employers/apollo-research/) | 7 | 🇬🇧 Apollo Research AI Ltd | 7 | £100k–£258k |
+| [Hudson River Trading](https://aiexpatjobs.com/employers/hudson-river-trading/) | 7 | 🇬🇧 Hudson River Trading Europe Ltd. |  |  |
+| [Lovable](https://aiexpatjobs.com/employers/lovable/) | 7 | 🇬🇧 Lovable Labs UK Limited |  |  |
+| [Perplexity](https://aiexpatjobs.com/employers/perplexity/) | 7 | 🇬🇧 Perplexity AI Ltd |  |  |
+| [Isomorphic Labs](https://aiexpatjobs.com/employers/isomorphic-labs/) | 6 | 🇬🇧 Isomorphic Labs Limited |  |  |
+| [Jane Street](https://aiexpatjobs.com/employers/jane-street/) | 6 | 🇬🇧 Jane Street Europe Limited |  |  |
+| [Scale AI](https://aiexpatjobs.com/employers/scale-ai/) | 6 | 🇬🇧 Scale AI Limited |  |  |
+| [Qube Research & Technologies](https://aiexpatjobs.com/employers/qube-research-and-technologies/) | 5 | 🇬🇧 Qube Research & Technologies Limited |  |  |
+| [Jump Trading](https://aiexpatjobs.com/employers/jump-trading/) | 4 | 🇬🇧 Jump Trading International Limited | 2 |  |
+| [Prosus](https://aiexpatjobs.com/employers/prosus/) | 4 | 🇳🇱 Prosus N.V. |  |  |
+| [Speechmatics](https://aiexpatjobs.com/employers/speechmatics/) | 4 | 🇬🇧 CANTAB RESEARCH LIMITED |  |  |
+| [DataSnipper](https://aiexpatjobs.com/employers/datasnipper/) | 3 | 🇳🇱 DataSnipper B.V. |  |  |
+| [Decagon](https://aiexpatjobs.com/employers/decagon/) | 3 | 🇬🇧 Decagon AI UK Ltd |  | £110k–£150k |
+| [Encord](https://aiexpatjobs.com/employers/encord/) | 3 | 🇬🇧 Cord Technologies Limited |  |  |
+| [Graphcore](https://aiexpatjobs.com/employers/graphcore/) | 3 | 🇬🇧 Graphcore Limited |  |  |
+| [JetBrains](https://aiexpatjobs.com/employers/jetbrains/) | 3 | 🇬🇧 JETBRAINS UK LIMITED |  |  |
+| [Latent Labs](https://aiexpatjobs.com/employers/latent-labs/) | 3 | 🇬🇧 Latent Labs Limited |  |  |
+| [Lendable](https://aiexpatjobs.com/employers/lendable/) | 3 | 🇬🇧 Lendable Operations Ltd |  |  |
+| [Paddle](https://aiexpatjobs.com/employers/paddle/) | 3 | 🇬🇧 Paddle.com Market Limited |  |  |
+| [TomTom](https://aiexpatjobs.com/employers/tomtom/) | 3 | 🇳🇱 TomTom International B.V. |  |  |
+| [Writer](https://aiexpatjobs.com/employers/writer/) | 3 | 🇬🇧 Writer UK HQ Limited |  |  |
+| [Basecamp Research](https://aiexpatjobs.com/employers/basecamp-research/) | 2 | 🇬🇧 Basecamp Research |  |  |
+| [Cursor](https://aiexpatjobs.com/employers/cursor/) | 2 | 🇬🇧 Anysphere UK Ltd |  |  |
+| [Duvo](https://aiexpatjobs.com/employers/duvo/) | 2 | 🇬🇧 Duvo Limited |  |  |
+| [Flexport](https://aiexpatjobs.com/employers/flexport/) | 2 | 🇳🇱 Flexport International B.V. |  |  |
+| [Flow Traders](https://aiexpatjobs.com/employers/flow-traders/) | 2 | 🇬🇧 Flow Traders UK Services Ltd · 🇳🇱 Flow Traders Amsterdam Services B.V. |  |  |
+| [GitLab](https://aiexpatjobs.com/employers/gitlab/) | 2 | 🇳🇱 GitLab B.V. |  |  |
+| [Gradient Labs](https://aiexpatjobs.com/employers/gradient-labs/) | 2 | 🇬🇧 Gradient Labs Limited |  |  |
+| [Heidi Health](https://aiexpatjobs.com/employers/heidi-health/) | 2 | 🇬🇧 Heidi Health Ltd |  |  |
+| [IMC Trading](https://aiexpatjobs.com/employers/imc-trading/) | 2 | 🇳🇱 IMC Trading B.V. |  |  |
+| [Marshmallow](https://aiexpatjobs.com/employers/marshmallow/) | 2 | 🇬🇧 Marshmallow Technology Ltd | 2 |  |
+| [Matillion](https://aiexpatjobs.com/employers/matillion/) | 2 | 🇬🇧 Matillion Limited |  | £84k–£126k |
+| [Mercor](https://aiexpatjobs.com/employers/mercor/) | 2 | 🇬🇧 Mercor Innovations UK Ltd |  |  |
+| [Meticulous](https://aiexpatjobs.com/employers/meticulous/) | 2 | 🇬🇧 Meticulous Ai Limited |  | £80k–£300k |
+| [Monumental](https://aiexpatjobs.com/employers/monumental/) | 2 | 🇳🇱 Monumental Works B.V. |  |  |
+| [Multiverse](https://aiexpatjobs.com/employers/multiverse/) | 2 | 🇬🇧 Multiverse Group Limited |  |  |
+| [PhysicsX](https://aiexpatjobs.com/employers/physicsx/) | 2 | 🇬🇧 PhysicsX Limited |  |  |
+| [Reddit](https://aiexpatjobs.com/employers/reddit/) | 2 | 🇬🇧 Reddit UK Ltd · 🇳🇱 Reddit Netherlands B.V. |  |  |
+| [Smartsheet](https://aiexpatjobs.com/employers/smartsheet/) | 2 | 🇬🇧 SMARTSHEET UK LIMITED |  |  |
+| [Anduril](https://aiexpatjobs.com/employers/anduril/) | 1 | 🇬🇧 Anduril Industries UK Limited |  |  |
+| [Catawiki](https://aiexpatjobs.com/employers/catawiki/) | 1 | 🇳🇱 Catawiki B.V. |  |  |
+| [Celonis](https://aiexpatjobs.com/employers/celonis/) | 1 | 🇳🇱 Celonis B.V. |  |  |
+| [Chainalysis](https://aiexpatjobs.com/employers/chainalysis/) | 1 | 🇬🇧 Chainalysis UK Limited |  |  |
+| [Coder](https://aiexpatjobs.com/employers/coder/) | 1 | 🇬🇧 Coder Technologies Inc |  | £120k–£227k |
+| [Eye Security](https://aiexpatjobs.com/employers/eye-security/) | 1 | 🇳🇱 Eye Security B.V. |  |  |
+| [Figma](https://aiexpatjobs.com/employers/figma/) | 1 | 🇬🇧 Figma UK Limited |  |  |
+| [GoCardless](https://aiexpatjobs.com/employers/gocardless/) | 1 | 🇬🇧 GoCardless Limited |  | £99k–£149k |
+| [Goodfire](https://aiexpatjobs.com/employers/goodfire/) | 1 | 🇬🇧 Goodfire AI UK Limited |  | £150k–£300k |
+| [Granola](https://aiexpatjobs.com/employers/granola/) | 1 | 🇬🇧 Granola Labs |  | £100k–£130k |
+| [Lleverage](https://aiexpatjobs.com/employers/lleverage/) | 1 | 🇳🇱 Lleverage B.V. |  | €65k–€85k |
+| [Owkin](https://aiexpatjobs.com/employers/owkin/) | 1 | 🇬🇧 Owkin UK Ltd |  |  |
+| [Planet](https://aiexpatjobs.com/employers/planet/) | 1 | 🇳🇱 Planet Payment Netherlands B.V. |  | €59k–€74k |
+| [Prolific](https://aiexpatjobs.com/employers/prolific/) | 1 | 🇬🇧 Prolific Academic Ltd |  |  |
+| [Redpanda Data](https://aiexpatjobs.com/employers/redpanda-data/) | 1 | 🇬🇧 Redpanda Data EMEA Limited |  | £132k–£155k |
+| [Sayari](https://aiexpatjobs.com/employers/sayari/) | 1 | 🇬🇧 Sayari Labs Limited |  | £100k–£110k |
+| [Squarepoint](https://aiexpatjobs.com/employers/squarepoint/) | 1 | 🇬🇧 Squarepoint Capital LLP |  |  |
+| [Stripe](https://aiexpatjobs.com/employers/stripe/) | 1 | 🇬🇧 Stripe Payments UK Ltd |  |  |
+| [Synthesia](https://aiexpatjobs.com/employers/synthesia/) | 1 | 🇬🇧 Synthesia Limited |  |  |
+| [Thought Machine](https://aiexpatjobs.com/employers/thought-machine/) | 1 | 🇬🇧 Thought Machine Group Limited |  |  |
+| [Vercel](https://aiexpatjobs.com/employers/vercel/) | 1 | 🇬🇧 Vercel UK Limited |  |  |
+| [Zopa](https://aiexpatjobs.com/employers/zopa/) | 1 | 🇬🇧 Zopa Bank Limited |  |  |
+
+Every company's register entry, check date and open roles: [aiexpatjobs.com/employers](https://aiexpatjobs.com/employers/).
 
 ## 🇬🇧 United Kingdom
 
@@ -529,6 +621,6 @@ Big employers on Workday or their own careers sites (for example Booking.com and
 
 ## Data and licence
 
-- [`jobs.csv`](jobs.csv) in this repo: one row per role, updated daily.
+- [`jobs.csv`](jobs.csv) in this repo: one row per role, updated daily. [`employers.csv`](employers.csv): one row per company, with its legal entity on each register.
 - JSON feed: [aiexpatjobs.com/data/jobs.json](https://aiexpatjobs.com/data/jobs.json). One row per employer: [aiexpatjobs.com/data/employers.csv](https://aiexpatjobs.com/data/employers.csv).
 - The data is free to reuse under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); please credit **AI Expat Jobs ([aiexpatjobs.com](https://aiexpatjobs.com))**. The code in `scripts/` is MIT licensed.
