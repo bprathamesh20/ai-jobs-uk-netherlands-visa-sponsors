@@ -36,8 +36,10 @@ def load(src: str) -> dict:
     return json.loads(Path(src).read_text())
 
 
-def load_employers() -> list[dict]:
+def load_employers(roles: dict[str, int]) -> list[dict]:
     # Optional: if the employer feed is down, the README is built without the employer table.
+    # The site also covers Germany, which has no register: keep employers on the UK or Dutch register,
+    # with their UK and Dutch role counts only.
     try:
         req = urllib.request.Request(EMPLOYERS, headers={"User-Agent": "ai-jobs-uk-netherlands-visa-sponsors (+github)"})
         with urllib.request.urlopen(req, timeout=60) as r:
@@ -45,9 +47,20 @@ def load_employers() -> list[dict]:
     except Exception as e:  # noqa: BLE001
         print(f"Employer feed unavailable ({e}); skipping the employer table.")
         return []
-    (ROOT / "employers.csv").write_text(text)
-    rows = list(csv.DictReader(text.splitlines()))
-    return [r for r in rows if int(r.get("open_ai_roles") or 0) > 0]
+    reader = csv.DictReader(text.splitlines())
+    fields = [f for f in reader.fieldnames or [] if f != "stated_pay_de"]
+    rows = []
+    for r in reader:
+        if not (r["uk_register_entity"] or r["nl_register_entity"]) or not roles.get(r["employer"]):
+            continue
+        r["open_ai_roles"] = str(roles[r["employer"]])
+        r["countries"] = " ".join(c for c in r["countries"].split() if c in ("UK", "NL"))
+        rows.append({f: r[f] for f in fields})
+    with open(ROOT / "employers.csv", "w", newline="") as fh:
+        w = csv.DictWriter(fh, fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
+    return rows
 
 
 def employer_section(emps: list[dict], heading: str) -> list[str]:
@@ -104,9 +117,14 @@ def table(rows: list[dict], new_since: str) -> list[str]:
 
 def main() -> None:
     feed = load(sys.argv[1] if len(sys.argv) > 1 else FEED)
-    emps = sorted(load_employers(), key=lambda e: (-int(e["open_ai_roles"]), e["employer"].lower()))
+    # The site also lists German roles (no register there); this list is UK and Dutch roles only.
+    keep = {c for c, _ in COUNTRIES}
+    jobs = [{**j, "countries": [c for c in j["countries"] if c in keep]} for j in feed.get("jobs") or [] if keep & set(j["countries"])]
+    roles = {}
+    for j in jobs:
+        roles[j["company"]] = roles.get(j["company"], 0) + 1
+    emps = sorted(load_employers(roles), key=lambda e: (-int(e["open_ai_roles"]), e["employer"].lower()))
     emp_heading = "Which AI companies sponsor visas in the UK and the Netherlands?"
-    jobs = feed.get("jobs") or []
     if len(jobs) < MIN_JOBS:
         sys.exit(f"Feed has {len(jobs)} jobs (< {MIN_JOBS}); not updating.")
 
