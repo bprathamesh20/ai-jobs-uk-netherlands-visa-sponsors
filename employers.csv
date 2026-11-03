@@ -7,7 +7,7 @@ Databricks,UK NL,Databricks UK Limited,Databricks,16,0,0,0,,,https://aiexpatjobs
 OpenAI,UK,OpenAI UK Ltd,,12,0,14,0,,,https://aiexpatjobs.com/employers/openai/,2026-11-03
 Wayve,UK,Wayve Technologies Ltd,,15,4,12,0,,,https://aiexpatjobs.com/employers/wayve/,2026-11-03
 Nebius,UK NL,Nebius UK Ltd,Nebius B.V.,12,0,0,0,,,https://aiexpatjobs.com/employers/nebius/,2026-11-03
-Palantir,UK,Palantir Technologies UK Limited,,13,0,0,0,,,https://aiexpatjobs.com/employers/palantir/,2026-11-03
+Palantir,UK,Palantir Technologies UK Limited,,12,0,0,0,,,https://aiexpatjobs.com/employers/palantir/,2026-11-03
 Wise,UK,Wise Payments Limited,,12,0,3,0,£90k–£182k,,https://aiexpatjobs.com/employers/wise/,2026-11-03
 ASOS,UK,ASOS.com,,11,0,0,0,,,https://aiexpatjobs.com/employers/asos/,2026-11-03
 Intercom,UK,Intercom Software UK Limited,,9,0,0,0,,,https://aiexpatjobs.com/employers/intercom/,2026-11-03
@@ -26,6 +26,7 @@ Trainline,UK,Trainline.com Ltd,,7,0,0,0,£80k–£108k,,https://aiexpatjobs.com/
 Apollo Research,UK,Apollo Research AI Ltd,,6,6,6,0,£136k–£590k,,https://aiexpatjobs.com/employers/apollo-research/,2026-11-03
 Jane Street,UK,Jane Street Europe Limited,,6,0,0,0,,,https://aiexpatjobs.com/employers/jane-street/,2026-11-03
 Scale AI,UK,Scale AI Limited,,6,0,0,1,,,https://aiexpatjobs.com/employers/scale-ai/,2026-11-03
+TomTom,NL,,TomTom International B.V.,6,0,0,0,,,https://aiexpatjobs.com/employers/tomtom/,2026-11-03
 Callosum,UK,Callosum Ltd,,5,5,5,0,,,https://aiexpatjobs.com/employers/callosum/,2026-11-03
 Conduct,UK,Conduct AI Ltd,,5,5,0,0,£50k–£55k,,https://aiexpatjobs.com/employers/conduct/,2026-11-03
 Isomorphic Labs,UK,Isomorphic Labs Limited,,5,0,0,0,,,https://aiexpatjobs.com/employers/isomorphic-labs/,2026-11-03
@@ -37,7 +38,6 @@ JetBrains,UK,JETBRAINS UK LIMITED,,4,0,2,0,,,https://aiexpatjobs.com/employers/j
 Plumerai,UK NL,Plumerai Limited,Plumerai B.V.,4,4,4,0,,,https://aiexpatjobs.com/employers/plumerai/,2026-11-03
 Prosus,NL,,Prosus N.V.,4,0,0,2,,,https://aiexpatjobs.com/employers/prosus/,2026-11-03
 Speechmatics,UK,CANTAB RESEARCH LIMITED,,4,0,0,0,,,https://aiexpatjobs.com/employers/speechmatics/,2026-11-03
-TomTom,NL,,TomTom International B.V.,4,0,0,0,,,https://aiexpatjobs.com/employers/tomtom/,2026-11-03
 DataSnipper,NL,,DataSnipper B.V.,3,0,0,0,,,https://aiexpatjobs.com/employers/datasnipper/,2026-11-03
 Decagon,UK,Decagon AI UK Ltd,,3,0,0,0,£110k–£150k,,https://aiexpatjobs.com/employers/decagon/,2026-11-03
 Graphcore,UK,Graphcore Limited,,3,0,0,17,,,https://aiexpatjobs.com/employers/graphcore/,2026-11-03
@@ -57,7 +57,6 @@ Cursor,UK,Anysphere UK Ltd,,2,0,0,0,,,https://aiexpatjobs.com/employers/cursor/,
 CuspAI,UK,Cusp AI Limited,,2,0,0,0,,,https://aiexpatjobs.com/employers/cuspai/,2026-11-03
 Duvo,UK,Duvo Limited,,2,0,0,0,,,https://aiexpatjobs.com/employers/duvo/,2026-11-03
 Flexport,NL,,Flexport International B.V.,2,0,0,0,,,https://aiexpatjobs.com/employers/flexport/,2026-11-03
-Flow Traders,UK NL,Flow Traders UK Services Ltd,Flow Traders Amsterdam Services B.V.,2,0,0,0,,,https://aiexpatjobs.com/employers/flow-traders/,2026-11-03
 GitLab,NL,,GitLab B.V.,2,0,0,0,,,https://aiexpatjobs.com/employers/gitlab/,2026-11-03
 IMC Trading,NL,,IMC Trading B.V.,2,0,0,0,,,https://aiexpatjobs.com/employers/imc-trading/,2026-11-03
 Marshmallow,UK,Marshmallow Technology Ltd,,2,2,0,4,,,https://aiexpatjobs.com/employers/marshmallow/,2026-11-03
@@ -70,11 +69,13 @@ Nevis,UK,NEVIS WEALTH TECHNOLOGY LTD,,2,0,0,0,,,https://aiexpatjobs.com/employer
 Paddle,UK,Paddle.com Market Limited,,2,0,0,0,,,https://aiexpatjobs.com/employers/paddle/,2026-11-03
 Reddit,UK NL,Reddit UK Ltd,Reddit Netherlands B.V.,2,0,0,0,,,https://aiexpatjobs.com/employers/reddit/,2026-11-03
 Anduril,UK,Anduril Industries UK Limited,,1,0,0,0,,,https://aiexpatjobs.com/employers/anduril/,2026-11-03
+Basecamp Research,UK,Basecamp Research,,1,0,0,0,,,https://aiexpatjobs.com/employers/basecamp-research/,2026-11-03
 Catawiki,NL,,Catawiki B.V.,1,0,0,0,,,https://aiexpatjobs.com/employers/catawiki/,2026-11-03
 Coder,UK,Coder Technologies Inc,,1,0,0,0,£120k–£227k,,https://aiexpatjobs.com/employers/coder/,2026-11-03
 Electric Twin,UK,Electric Twin Ltd,,1,0,0,0,,,https://aiexpatjobs.com/employers/electric-twin/,2026-11-03
 Eye Security,NL,,Eye Security B.V.,1,0,0,0,,,https://aiexpatjobs.com/employers/eye-security/,2026-11-03
 Figma,UK,Figma UK Limited,,1,0,0,0,,,https://aiexpatjobs.com/employers/figma/,2026-11-03
+Flow Traders,NL,,Flow Traders Amsterdam Services B.V.,1,0,0,0,,,https://aiexpatjobs.com/employers/flow-traders/,2026-11-03
 Fractile,UK,Fractile Ltd,,1,0,0,0,,,https://aiexpatjobs.com/employers/fractile/,2026-11-03
 GoCardless,UK,GoCardless Limited,,1,0,0,0,£99k–£149k,,https://aiexpatjobs.com/employers/gocardless/,2026-11-03
 Goodfire,UK,Goodfire AI UK Limited,,1,0,0,0,£150k–£300k,,https://aiexpatjobs.com/employers/goodfire/,2026-11-03
