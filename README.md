@@ -1,6 +1,6 @@
 # AI jobs in the UK & Netherlands at visa sponsors
 
-![Updated](https://img.shields.io/badge/updated-2026--11--07-2f7d5b) ![Roles](https://img.shields.io/badge/open_roles-476-2f7d5b) ![New this week](https://img.shields.io/badge/new_this_week-68-c2410c)
+![Updated](https://img.shields.io/badge/updated-2026--11--08-2f7d5b) ![Roles](https://img.shields.io/badge/open_roles-476-2f7d5b) ![New this week](https://img.shields.io/badge/new_this_week-66-c2410c)
 
 **476 open AI, ML and data roles at 96 employers**, updated every day. Every employer here is on an official visa-sponsor register: the UK Home Office [register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) or the Dutch IND [public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors). Postings that say the company can't sponsor are left out.
 
@@ -523,8 +523,8 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 
 | Company | Role | Location | Pay | Notes | Added | |
 |---|---|---|---|---|---|---|
-| **Apollo Research** | [Lead Research Scientist/Engineer (Embedded Evaluations)](https://aiexpatjobs.com/jobs/ddd0ce4a1831/) | London | £160k–£590k | 🆕 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/7800a936-b216-4fcc-92f2-b6e496302b26) |
-| **Apollo Research** | [Research Scientist/Engineer (Fundamental Research)](https://aiexpatjobs.com/jobs/0a53dc6a3f3e/) | London | £160k–£395k | 🆕 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/470d35f7-1caf-4138-b549-95109f45c617) |
+| **Apollo Research** | [Lead Research Scientist/Engineer (Embedded Evaluations)](https://aiexpatjobs.com/jobs/ddd0ce4a1831/) | London | £160k–£590k | 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/7800a936-b216-4fcc-92f2-b6e496302b26) |
+| **Apollo Research** | [Research Scientist/Engineer (Fundamental Research)](https://aiexpatjobs.com/jobs/0a53dc6a3f3e/) | London | £160k–£395k | 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/470d35f7-1caf-4138-b549-95109f45c617) |
 | **Apollo Research** | [Research Scientist (Control)](https://aiexpatjobs.com/jobs/6e86954fd3b4/) | London | £136k–£258k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/24d016aa-5a19-4976-8936-af2fbf748000) |
 | **Cohere** | [Senior Research Scientist, Model Evaluation](https://aiexpatjobs.com/jobs/aea80482df6a/) | London |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415) |
 | **Goodfire** | [Research Scientist (London)](https://aiexpatjobs.com/jobs/2ff05b3d8846/) | London | £150k–£300k |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/goodfire/jobs/5382137008) |
@@ -680,7 +680,7 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 1. Every morning, roles are read from about 150 AI employers' own job boards (Greenhouse, Ashby, Lever and others). Only AI, ML, forward-deployed and data roles in the UK and the Netherlands are kept.
 2. Each employer is matched to the UK and Dutch sponsor registers by its legal entity name. Matches are reviewed by hand, because brand names rarely match legal names.
 3. An AI model reads each posting for stated pay and for sponsorship and relocation mentions. A role is left out for saying it can't sponsor only when that sentence is found in the posting. These notes can still be wrong, so always check the posting.
-4. A GitHub Action rebuilds this README from [aiexpatjobs.com/data/jobs.json](https://aiexpatjobs.com/data/jobs.json) every day. This version is from 7 November 2026.
+4. A GitHub Action rebuilds this README from [aiexpatjobs.com/data/jobs.json](https://aiexpatjobs.com/data/jobs.json) every day. This version is from 8 November 2026.
 
 Big employers on Workday or their own careers sites (for example Booking.com and ASML) aren't covered yet.
 
