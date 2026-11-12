@@ -1,8 +1,8 @@
 # AI jobs in the UK & Netherlands at visa sponsors
 
-![Updated](https://img.shields.io/badge/updated-2026--11--11-2f7d5b) ![Roles](https://img.shields.io/badge/open_roles-472-2f7d5b) ![New this week](https://img.shields.io/badge/new_this_week-67-c2410c)
+![Updated](https://img.shields.io/badge/updated-2026--11--12-2f7d5b) ![Roles](https://img.shields.io/badge/open_roles-469-2f7d5b) ![New this week](https://img.shields.io/badge/new_this_week-59-c2410c)
 
-**472 open AI, ML and data roles at 98 employers**, updated every day. Every employer here is on an official visa-sponsor register: the UK Home Office [register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) or the Dutch IND [public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors). Postings that say the company can't sponsor are left out.
+**469 open AI, ML and data roles at 96 employers**, updated every day. Every employer here is on an official visa-sponsor register: the UK Home Office [register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) or the Dutch IND [public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors). Postings that say the company can't sponsor are left out.
 
 Search, filter by city and role, and get a free weekly email of new roles at **[aiexpatjobs.com](https://aiexpatjobs.com)**.
 
@@ -13,52 +13,52 @@ Search, filter by city and role, and get a free weekly email of new roles at **[
 
 ## Contents
 
-- [Which AI companies sponsor visas in the UK and the Netherlands?](#which-ai-companies-sponsor-visas-in-the-uk-and-the-netherlands) (98 companies)
-- [United Kingdom](#-united-kingdom) (425)
-  - [AI & ML engineering](#ai--ml-engineering-uk) (291)
+- [Which AI companies sponsor visas in the UK and the Netherlands?](#which-ai-companies-sponsor-visas-in-the-uk-and-the-netherlands) (96 companies)
+- [United Kingdom](#-united-kingdom) (423)
+  - [AI & ML engineering](#ai--ml-engineering-uk) (290)
   - [Forward-deployed engineering](#forward-deployed-engineering-uk) (78)
   - [AI research](#ai-research-uk) (8)
-  - [Data science](#data-science-uk) (48)
-- [Netherlands](#-netherlands) (71)
-  - [AI & ML engineering](#ai--ml-engineering-nl) (55)
-  - [Forward-deployed engineering](#forward-deployed-engineering-nl) (14)
+  - [Data science](#data-science-uk) (47)
+- [Netherlands](#-netherlands) (70)
+  - [AI & ML engineering](#ai--ml-engineering-nl) (53)
+  - [Forward-deployed engineering](#forward-deployed-engineering-nl) (15)
   - [Data science](#data-science-nl) (2)
 - [How this list is made](#how-this-list-is-made)
 - [Data and licence](#data-and-licence)
 
 ## Which AI companies sponsor visas in the UK and the Netherlands?
 
-**98 companies with open AI, ML or data roles today are on an official sponsor register**: 84 on the UK Home Office register of licensed sponsors and 22 on the Dutch IND register of recognised sponsors. The most open roles are at Faculty (39), Amazon (38), Mistral AI (33), Databricks (16) and Wayve (16).
+**96 companies with open AI, ML or data roles today are on an official sponsor register**: 82 on the UK Home Office register of licensed sponsors and 21 on the Dutch IND register of recognised sponsors. The most open roles are at Amazon (39), Faculty (39), Mistral AI (34), Databricks (16) and Wayve (16).
 
 The table gives the legal entity each one is registered under, which is often not the brand name. Being on a register means the company *can* sponsor a visa; the last columns show how many of its postings mention sponsorship, and what pay they state.
 
 | Company | Open roles | Registered as | Postings mentioning sponsorship | Stated pay |
 |---|---|---|---|---|
+| [Amazon](https://aiexpatjobs.com/employers/amazon/) | 39 | 🇬🇧 Amazon UK Services Ltd · 🇳🇱 Amazon Development Center (Netherlands) B.V. |  |  |
 | [Faculty](https://aiexpatjobs.com/employers/faculty/) | 39 | 🇬🇧 Faculty Science Limited |  |  |
-| [Amazon](https://aiexpatjobs.com/employers/amazon/) | 38 | 🇬🇧 Amazon UK Services Ltd · 🇳🇱 Amazon Development Center (Netherlands) B.V. |  |  |
-| [Mistral AI](https://aiexpatjobs.com/employers/mistral-ai/) | 33 | 🇬🇧 Mistral AI UK Limited · 🇳🇱 Mistral AI NL B.V. |  |  |
+| [Mistral AI](https://aiexpatjobs.com/employers/mistral-ai/) | 34 | 🇬🇧 Mistral AI UK Limited · 🇳🇱 Mistral AI NL B.V. |  |  |
 | [Databricks](https://aiexpatjobs.com/employers/databricks/) | 16 | 🇬🇧 Databricks UK Limited · 🇳🇱 Databricks |  |  |
 | [Wayve](https://aiexpatjobs.com/employers/wayve/) | 16 | 🇬🇧 Wayve Technologies Ltd | 6 |  |
-| [Anthropic](https://aiexpatjobs.com/employers/anthropic/) | 14 | 🇬🇧 Anthropic Limited | 18 | £150k–£640k |
+| [Anthropic](https://aiexpatjobs.com/employers/anthropic/) | 13 | 🇬🇧 Anthropic Limited | 17 | £150k–£640k |
 | [OpenAI](https://aiexpatjobs.com/employers/openai/) | 13 | 🇬🇧 OpenAI UK Ltd |  |  |
 | [Palantir](https://aiexpatjobs.com/employers/palantir/) | 13 | 🇬🇧 Palantir Technologies UK Limited |  |  |
 | [Nebius](https://aiexpatjobs.com/employers/nebius/) | 11 | 🇬🇧 Nebius UK Ltd · 🇳🇱 Nebius B.V. |  |  |
 | [Wise](https://aiexpatjobs.com/employers/wise/) | 11 | 🇬🇧 Wise Payments Limited |  | £90k–£182k |
 | [ASOS](https://aiexpatjobs.com/employers/asos/) | 10 | 🇬🇧 ASOS.com |  |  |
 | [Isomorphic Labs](https://aiexpatjobs.com/employers/isomorphic-labs/) | 9 | 🇬🇧 Isomorphic Labs Limited |  |  |
-| [Adyen](https://aiexpatjobs.com/employers/adyen/) | 8 | 🇳🇱 Adyen Netherlands B.V. |  |  |
 | [Cohere](https://aiexpatjobs.com/employers/cohere/) | 8 | 🇬🇧 Cohere UK Ltd |  |  |
 | [Deliveroo](https://aiexpatjobs.com/employers/deliveroo/) | 8 | 🇬🇧 Roofoods Ltd t/a Deliveroo |  |  |
 | [Helsing](https://aiexpatjobs.com/employers/helsing/) | 8 | 🇬🇧 Helsing Limited |  |  |
 | [Intercom](https://aiexpatjobs.com/employers/intercom/) | 8 | 🇬🇧 Intercom Software UK Limited |  |  |
 | [Lovable](https://aiexpatjobs.com/employers/lovable/) | 8 | 🇬🇧 Lovable Labs UK Limited |  |  |
+| [Adyen](https://aiexpatjobs.com/employers/adyen/) | 7 | 🇳🇱 Adyen Netherlands B.V. |  |  |
 | [ElevenLabs](https://aiexpatjobs.com/employers/elevenlabs/) | 7 | 🇬🇧 Eleven Labs Ltd |  |  |
 | [Hudson River Trading](https://aiexpatjobs.com/employers/hudson-river-trading/) | 7 | 🇬🇧 Hudson River Trading Europe Ltd. |  |  |
 | [Jane Street](https://aiexpatjobs.com/employers/jane-street/) | 7 | 🇬🇧 Jane Street Europe Limited |  |  |
-| [Monzo](https://aiexpatjobs.com/employers/monzo/) | 7 | 🇬🇧 Monzo Bank Ltd | 6 | £79k–£176k |
 | [Perplexity](https://aiexpatjobs.com/employers/perplexity/) | 7 | 🇬🇧 Perplexity AI Ltd |  |  |
 | [Spotify](https://aiexpatjobs.com/employers/spotify/) | 7 | 🇬🇧 Spotify Limited |  |  |
 | [Apollo Research](https://aiexpatjobs.com/employers/apollo-research/) | 6 | 🇬🇧 Apollo Research AI Ltd | 6 | £136k–£590k |
+| [Monzo](https://aiexpatjobs.com/employers/monzo/) | 6 | 🇬🇧 Monzo Bank Ltd | 5 | £79k–£176k |
 | [Trainline](https://aiexpatjobs.com/employers/trainline/) | 6 | 🇬🇧 Trainline.com Ltd |  | £80k–£108k |
 | [Callosum](https://aiexpatjobs.com/employers/callosum/) | 5 | 🇬🇧 Callosum Ltd | 5 |  |
 | [PhysicsX](https://aiexpatjobs.com/employers/physicsx/) | 5 | 🇬🇧 PhysicsX Limited |  |  |
@@ -88,6 +88,7 @@ The table gives the legal entity each one is registered under, which is often no
 | [CuspAI](https://aiexpatjobs.com/employers/cuspai/) | 2 | 🇬🇧 Cusp AI Limited |  |  |
 | [Duvo](https://aiexpatjobs.com/employers/duvo/) | 2 | 🇬🇧 Duvo Limited |  |  |
 | [Flexport](https://aiexpatjobs.com/employers/flexport/) | 2 | 🇳🇱 Flexport International B.V. |  |  |
+| [GitLab](https://aiexpatjobs.com/employers/gitlab/) | 2 | 🇳🇱 GitLab B.V. |  |  |
 | [IMC Trading](https://aiexpatjobs.com/employers/imc-trading/) | 2 | 🇳🇱 IMC Trading B.V. |  |  |
 | [JetBrains](https://aiexpatjobs.com/employers/jetbrains/) | 2 | 🇬🇧 JETBRAINS UK LIMITED · 🇳🇱 JetBrains N.V. |  |  |
 | [Marshmallow](https://aiexpatjobs.com/employers/marshmallow/) | 2 | 🇬🇧 Marshmallow Technology Ltd | 2 |  |
@@ -96,7 +97,6 @@ The table gives the legal entity each one is registered under, which is often no
 | [Monumental](https://aiexpatjobs.com/employers/monumental/) | 2 | 🇳🇱 Monumental Works B.V. |  |  |
 | [Nevis](https://aiexpatjobs.com/employers/nevis/) | 2 | 🇬🇧 NEVIS WEALTH TECHNOLOGY LTD |  |  |
 | [Paddle](https://aiexpatjobs.com/employers/paddle/) | 2 | 🇬🇧 Paddle.com Market Limited |  |  |
-| [Reddit](https://aiexpatjobs.com/employers/reddit/) | 2 | 🇬🇧 Reddit UK Ltd · 🇳🇱 Reddit Netherlands B.V. |  |  |
 | [Sayari](https://aiexpatjobs.com/employers/sayari/) | 2 | 🇬🇧 Sayari Labs Limited |  | £100k–£110k |
 | [Smartsheet](https://aiexpatjobs.com/employers/smartsheet/) | 2 | 🇬🇧 SMARTSHEET UK LIMITED |  |  |
 | [Anduril](https://aiexpatjobs.com/employers/anduril/) | 1 | 🇬🇧 Anduril Industries UK Limited |  |  |
@@ -110,7 +110,6 @@ The table gives the legal entity each one is registered under, which is often no
 | [Figma](https://aiexpatjobs.com/employers/figma/) | 1 | 🇬🇧 Figma UK Limited |  |  |
 | [Flow Traders](https://aiexpatjobs.com/employers/flow-traders/) | 1 | 🇳🇱 Flow Traders Amsterdam Services B.V. |  |  |
 | [Fractile](https://aiexpatjobs.com/employers/fractile/) | 1 | 🇬🇧 Fractile Ltd |  |  |
-| [GitLab](https://aiexpatjobs.com/employers/gitlab/) | 1 | 🇳🇱 GitLab B.V. |  |  |
 | [GoCardless](https://aiexpatjobs.com/employers/gocardless/) | 1 | 🇬🇧 GoCardless Limited |  | £99k–£149k |
 | [Goodfire](https://aiexpatjobs.com/employers/goodfire/) | 1 | 🇬🇧 Goodfire AI UK Limited |  | £150k–£300k |
 | [Granola](https://aiexpatjobs.com/employers/granola/) | 1 | 🇬🇧 Granola Labs |  | £100k–£130k |
@@ -124,7 +123,6 @@ The table gives the legal entity each one is registered under, which is often no
 | [PolyAI](https://aiexpatjobs.com/employers/polyai/) | 1 | 🇬🇧 PolyAI Limited |  |  |
 | [Prolific](https://aiexpatjobs.com/employers/prolific/) | 1 | 🇬🇧 Prolific Academic Ltd |  |  |
 | [Redpanda Data](https://aiexpatjobs.com/employers/redpanda-data/) | 1 | 🇬🇧 Redpanda Data EMEA Limited |  | £132k–£155k |
-| [Snyk](https://aiexpatjobs.com/employers/snyk/) | 1 | 🇬🇧 Snyk Limited |  |  |
 | [Solve Intelligence](https://aiexpatjobs.com/employers/solve-intelligence/) | 1 | 🇬🇧 Solve Intelligence Limited | 1 |  |
 | [Squarepoint](https://aiexpatjobs.com/employers/squarepoint/) | 1 | 🇬🇧 Squarepoint Capital LLP |  |  |
 | [Stripe](https://aiexpatjobs.com/employers/stripe/) | 1 | 🇬🇧 Stripe Payments UK Ltd |  |  |
@@ -137,12 +135,14 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 
 ## 🇬🇧 United Kingdom
 
-425 roles. Register checked 11 Nov 2026.
+423 roles. Register checked 12 Nov 2026.
 
 ### AI & ML engineering (UK)
 
 | Company | Role | Location | Pay | Notes | Added | |
 |---|---|---|---|---|---|---|
+| **Amazon** | [Applied Scientist, Ads Brand Safety and Suitability](https://aiexpatjobs.com/jobs/6a1231767e8a/) | London |  | 🆕 | 12 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10602925/applied-scientist-ads-brand-safety-and-suitability) |
+| **Mistral AI** | [AI Scientist - Agentic Engineering](https://aiexpatjobs.com/jobs/a99607cf8132/) | London · Munich · Berlin |  | 🆕 ✈️ | 12 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/d040f4c6-ed98-4370-b6e9-460c359a5e2a) |
 | **Amazon** | [Applied Scientist II, Alexa for Shopping](https://aiexpatjobs.com/jobs/7705ac2d2e0e/) | London |  | 🆕 | 11 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10599859/applied-scientist-ii-alexa-for-shopping) |
 | **Amazon** | [Principal Business Developer - ISV, GenAI GTM Specialists, EMEA](https://aiexpatjobs.com/jobs/de93a79f7624/) | London |  | 🆕 | 11 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10602208/principal-business-developer-isv-genai-gtm-specialists-emea) |
 | **ASOS** | [Applied Scientist (Machine Learning)](https://aiexpatjobs.com/jobs/f04487e7e663/) | London |  | 🆕 | 11 Nov | [Apply ↗](https://jobs.smartrecruiters.com/asos/744000161122527) |
@@ -172,7 +172,6 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Perplexity** | [Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)](https://aiexpatjobs.com/jobs/cbb8656364ae/) | London |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2) |
 | **Perplexity** | [Member of Technical Staff (Machine Learning Engineer, Search Agent RL)](https://aiexpatjobs.com/jobs/d54da424973f/) | London · Berlin |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2) |
 | **Perplexity** | [Member of Technical Staff (Machine Learning Engineer, Search)](https://aiexpatjobs.com/jobs/a1a72fba91bb/) | London · Berlin |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018) |
-| **Snyk** | [AI Systems Engineer](https://aiexpatjobs.com/jobs/33bc9a4aa363/) | London |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/Snyk/6b9860ae-5db2-40d5-bd7b-e2aad1f366c5) |
 | **Writer** | [Software engineer, generative AI (UK)](https://aiexpatjobs.com/jobs/42787d5fcc91/) | London |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/WRITER/b4116df9-b351-4d91-bf9f-27fb6e2811c5) |
 | **Cohere** | [Software Engineer, ML Ops](https://aiexpatjobs.com/jobs/14ce748292c5/) | London · Berlin |  | 🆕 | 6 Nov | [Apply ↗](https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4) |
 | **Isomorphic Labs** | [Principal Software Engineer (ML Infrastructure), London](https://aiexpatjobs.com/jobs/4eecbb9e86f9/) | London |  | 🆕 | 6 Nov | [Apply ↗](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004) |
@@ -184,14 +183,14 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **ASOS** | [Senior Machine Learning Engineer (Personalisation)](https://aiexpatjobs.com/jobs/72f1f6d5fabd/) | London |  | 🆕 | 5 Nov | [Apply ↗](https://jobs.smartrecruiters.com/asos/744000159808840) |
 | **ASOS** | [Senior Machine Learning Engineer (Recommendations/Search)](https://aiexpatjobs.com/jobs/ec6f12c62c34/) | London |  | 🆕 | 5 Nov | [Apply ↗](https://jobs.smartrecruiters.com/asos/744000159808799) |
 | **Scale AI** | [Senior Applied AI Engineer](https://aiexpatjobs.com/jobs/d0fd596dc47e/) | London |  | 🆕 | 5 Nov | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4751081005) |
-| **Amazon** | [Principal Applied AI Solutions Architect, Amazon Connect, EMEA Applied AI Solution Architecture team](https://aiexpatjobs.com/jobs/996f53f9e37f/) | London |  | 🆕 | 4 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10595525/principal-applied-ai-solutions-architect-amazon-connect-emea-applied-ai-solution-architecture-team) |
-| **Isomorphic Labs** | [Operating Partner (AI Research), London](https://aiexpatjobs.com/jobs/2db196ac14f3/) | London |  | 🆕 | 4 Nov | [Apply ↗](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6240415004) |
-| **Jane Street** | [Machine Learning Compiler Engineer](https://aiexpatjobs.com/jobs/a3322ea56a61/) | London |  | 🆕 | 4 Nov | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8927588002?gh_jid=8927588002) |
-| **Mistral AI** | [Applied Scientist - Optimisation, EMEA](https://aiexpatjobs.com/jobs/1beaf467a15f/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/2ad44b54-079c-4ce6-8176-7d733a2b364a) |
-| **Mistral AI** | [Applied Scientist - Tabular Data, EMEA](https://aiexpatjobs.com/jobs/885325f480f4/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/6b1475e3-0dca-4e72-8ca2-586e0a099071) |
-| **Mistral AI** | [Applied Scientist Lead - Robotics, EMEA](https://aiexpatjobs.com/jobs/f2e2687119d0/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/c5fd092e-adb9-4912-a1cb-b23f140183a3) |
-| **Multiverse** | [Senior AI Engineering Manager](https://aiexpatjobs.com/jobs/4b4213363eeb/) | London |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/multiverse/764fa366-dbe2-4f04-ae55-908651d4c771) |
-| **Wise** | [Lead Data Scientist - Agentic AI / AML](https://aiexpatjobs.com/jobs/0c95612135d1/) | London |  | 🆕 ✈️ | 4 Nov | [Apply ↗](https://jobs.smartrecruiters.com/wise/744000159590339) |
+| **Amazon** | [Principal Applied AI Solutions Architect, Amazon Connect, EMEA Applied AI Solution Architecture team](https://aiexpatjobs.com/jobs/996f53f9e37f/) | London |  |  | 4 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10595525/principal-applied-ai-solutions-architect-amazon-connect-emea-applied-ai-solution-architecture-team) |
+| **Isomorphic Labs** | [Operating Partner (AI Research), London](https://aiexpatjobs.com/jobs/2db196ac14f3/) | London |  |  | 4 Nov | [Apply ↗](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6240415004) |
+| **Jane Street** | [Machine Learning Compiler Engineer](https://aiexpatjobs.com/jobs/a3322ea56a61/) | London |  |  | 4 Nov | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8927588002?gh_jid=8927588002) |
+| **Mistral AI** | [Applied Scientist - Optimisation, EMEA](https://aiexpatjobs.com/jobs/1beaf467a15f/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/2ad44b54-079c-4ce6-8176-7d733a2b364a) |
+| **Mistral AI** | [Applied Scientist - Tabular Data, EMEA](https://aiexpatjobs.com/jobs/885325f480f4/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/6b1475e3-0dca-4e72-8ca2-586e0a099071) |
+| **Mistral AI** | [Applied Scientist Lead - Robotics, EMEA](https://aiexpatjobs.com/jobs/f2e2687119d0/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/c5fd092e-adb9-4912-a1cb-b23f140183a3) |
+| **Multiverse** | [Senior AI Engineering Manager](https://aiexpatjobs.com/jobs/4b4213363eeb/) | London |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/multiverse/764fa366-dbe2-4f04-ae55-908651d4c771) |
+| **Wise** | [Lead Data Scientist - Agentic AI / AML](https://aiexpatjobs.com/jobs/0c95612135d1/) | London |  | ✈️ | 4 Nov | [Apply ↗](https://jobs.smartrecruiters.com/wise/744000159590339) |
 | **Basecamp Research** | [Senior Research Scientist, AI Safety and Biosecurity](https://aiexpatjobs.com/jobs/025f47c9d735/) | London |  |  | 3 Nov | [Apply ↗](https://jobs.ashbyhq.com/basecamp-research/42372a52-f1e5-43a4-be3f-0079b7122971) |
 | **OpenAI** | [Applied AI Engineer, Digital Natives](https://aiexpatjobs.com/jobs/199a60eca5db/) | London |  | ✈️ | 3 Nov | [Apply ↗](https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294) |
 | **PhysicsX** | [Platform Engineer - Self Hosting LLMs](https://aiexpatjobs.com/jobs/d278e8abf872/) | London |  |  | 3 Nov | [Apply ↗](https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101) |
@@ -275,7 +274,6 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Amazon** | [Sr. WW Applied AI Specialist SA, Amazon Connect](https://aiexpatjobs.com/jobs/e44863497123/) | London |  |  | 1 Oct | [Apply ↗](https://www.amazon.jobs/en/jobs/10444810/sr-ww-applied-ai-specialist-sa-amazon-connect) |
 | **Anduril** | [Senior Machine Learning Engineer](https://aiexpatjobs.com/jobs/8e8a611c031d/) | UK |  |  | 1 Oct | [Apply ↗](https://boards.greenhouse.io/andurilindustries/jobs/5016403007?gh_jid=5016403007) |
 | **Anthropic** | [[Expression of Interest] Research Engineer / Scientist, Alignment - London](https://aiexpatjobs.com/jobs/20890896aee9/) | London | £260k–£370k | 🛂 | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/anthropic/jobs/4610158008) |
-| **Anthropic** | [Applied AI Architect, Industries](https://aiexpatjobs.com/jobs/f3208ad428cd/) | London | £165k–£190k | 🛂 | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/anthropic/jobs/5390765008) |
 | **Anthropic** | [Applied AI Architect, Partnerships](https://aiexpatjobs.com/jobs/93d4dc0dcab4/) | London | £150k–£190k | 🛂 | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/anthropic/jobs/5432583008) |
 | **Anthropic** | [Applied AI Architect, Startups](https://aiexpatjobs.com/jobs/e71d38d5c6a8/) | London | £165k–£190k | 🛂 | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/anthropic/jobs/5432573008) |
 | **Anthropic** | [Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)](https://aiexpatjobs.com/jobs/e33329633ae9/) | London | £225k–£255k | 🛂 | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/anthropic/jobs/5445760008) |
@@ -332,8 +330,8 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Figma** | [Software Engineer - AI Product (London, United Kingdom)](https://aiexpatjobs.com/jobs/d05265d80d7d/) | London |  |  | 1 Oct | [Apply ↗](https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004) |
 | **Granola** | [AI Engineer (Core Harness)](https://aiexpatjobs.com/jobs/13c68bf367f9/) | London | £100k–£130k | ✈️ | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/granola/ed52eb55-cb81-4ed8-b97b-92b477876f9e) |
 | **Graphcore** | [Infrastructure and MLOps Engineer](https://aiexpatjobs.com/jobs/9d3dfd95fd63/) | Cambridge |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/graphcore/jobs/8636572002) |
-| **Graphcore** | [Infrastructure and MLOps Engineer](https://aiexpatjobs.com/jobs/7d8409bb4677/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/graphcore/jobs/8636574002) |
 | **Graphcore** | [Infrastructure and MLOps Engineer](https://aiexpatjobs.com/jobs/bc6207b3c2f4/) | Bristol |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/graphcore/jobs/8556044002) |
+| **Graphcore** | [Infrastructure and MLOps Engineer](https://aiexpatjobs.com/jobs/7d8409bb4677/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/graphcore/jobs/8636574002) |
 | **Hudson River Trading** | [AI Research Engineer, Inference](https://aiexpatjobs.com/jobs/d09bda46d411/) | London |  |  | 1 Oct | [Apply ↗](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593) |
 | **Hudson River Trading** | [AI Research Engineer, Pre-Training](https://aiexpatjobs.com/jobs/a588a16a8079/) | London |  |  | 1 Oct | [Apply ↗](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584) |
 | **Hudson River Trading** | [AI Researcher](https://aiexpatjobs.com/jobs/967b9fd48c2e/) | London |  |  | 1 Oct | [Apply ↗](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8161767) |
@@ -355,9 +353,9 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Jane Street** | [Machine Learning Engineer](https://aiexpatjobs.com/jobs/415a8635754b/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002) |
 | **Jane Street** | [Machine Learning Performance Engineer](https://aiexpatjobs.com/jobs/8beac4a18d6d/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/7449252002?gh_jid=7449252002) |
 | **Jane Street** | [Machine Learning Research Engineer](https://aiexpatjobs.com/jobs/1746ee037d02/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/7437779002?gh_jid=7437779002) |
-| **Jane Street** | [Machine Learning Researcher](https://aiexpatjobs.com/jobs/8db23ef35f44/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/7246339002?gh_jid=7246339002) |
-| **Jane Street** | [Machine Learning Researcher](https://aiexpatjobs.com/jobs/01f99d76b5b6/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) |
 | **Jane Street** | [Machine Learning Researcher](https://aiexpatjobs.com/jobs/97ab72e1cfdd/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002) |
+| **Jane Street** | [Machine Learning Researcher](https://aiexpatjobs.com/jobs/01f99d76b5b6/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) |
+| **Jane Street** | [Machine Learning Researcher](https://aiexpatjobs.com/jobs/8db23ef35f44/) | London |  |  | 1 Oct | [Apply ↗](https://www.janestreet.com/join-jane-street/apply/7246339002?gh_jid=7246339002) |
 | **JetBrains** | [(Senior) Machine Learning Developer (Junie)](https://aiexpatjobs.com/jobs/0f9c3b55f102/) | London · Remote (UK) · Amsterdam · Remote (NL) · Berlin · Munich |  | ✈️ | 1 Oct | [Apply ↗](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4937092101) |
 | **Jump Trading** | [Campus AI Researcher, PhD/Postdoc (Intern)](https://aiexpatjobs.com/jobs/257abd588bdc/) | London |  |  | 1 Oct | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7976964) |
 | **Jump Trading** | [Campus ML Research Engineer (Full-Time)](https://aiexpatjobs.com/jobs/1acca0ae939b/) | London |  | 🛂 | 1 Oct | [Apply ↗](https://www.jumptrading.com/hr/job?gh_jid=7977132) |
@@ -389,8 +387,8 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Monzo** | [Senior Machine Learning Manager, Borrowing](https://aiexpatjobs.com/jobs/c4bdcb1c0f78/) | Cardiff · London · Remote (UK) | £138k–£176k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/7996955) |
 | **Multiverse** | [AI - Workshop Lead](https://aiexpatjobs.com/jobs/dd82214086da/) | London · Remote (UK) |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/multiverse/792a7c47-0f41-4f29-97d2-6912ab6b03de) |
 | **Multiverse** | [Senior AI Engineer](https://aiexpatjobs.com/jobs/c7a87791059d/) | London |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/multiverse/58389a21-a599-43b6-9869-9885a16e2072) |
-| **Nebius** | [Senior Applied Scientist, Efficient LLM Inference & Model Optimization](https://aiexpatjobs.com/jobs/ee8cb7f426e6/) | London · Amsterdam · Berlin |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=4990886101) |
 | **Nebius** | [Senior Applied Scientist, Efficient LLM Inference & Model Optimization](https://aiexpatjobs.com/jobs/c93d77f490c9/) | London |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=5003407101) |
+| **Nebius** | [Senior Applied Scientist, Efficient LLM Inference & Model Optimization](https://aiexpatjobs.com/jobs/ee8cb7f426e6/) | London · Amsterdam · Berlin |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=4990886101) |
 | **Nebius** | [Senior Machine Learning Engineer, LLM Inference Optimization](https://aiexpatjobs.com/jobs/75a04941f583/) | London |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=4984012101) |
 | **Nebius** | [Senior ML Engineer (Agentic Search)](https://aiexpatjobs.com/jobs/eb134fc2387e/) | London · Remote (UK) · Amsterdam · Remote (NL) |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=5008613101) |
 | **Nebius** | [Senior Site Reliability Engineer — Token Factory (Inference Platform)](https://aiexpatjobs.com/jobs/45d3d413eacd/) | London · Remote (UK) · Amsterdam · Remote (NL) · Berlin |  |  | 1 Oct | [Apply ↗](https://careers.nebius.com/?gh_jid=4600919101) |
@@ -407,7 +405,6 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Prolific** | [Senior Applied Scientist, Supply](https://aiexpatjobs.com/jobs/01c2637350a4/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.eu.greenhouse.io/prolific/jobs/4896443101) |
 | **Qube Research & Technologies** | [Senior AI Engineer](https://aiexpatjobs.com/jobs/665b3b7228a2/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8699443002) |
 | **Qube Research & Technologies** | [Senior Security Engineer - AI](https://aiexpatjobs.com/jobs/bb59340e7d36/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8789847002) |
-| **Reddit** | [Staff Machine Learning Engineer, Ads Foundational Representations](https://aiexpatjobs.com/jobs/03970b46dd7b/) | Remote (UK) |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/reddit/jobs/8018513) |
 | **Scale AI** | [Staff Applied AI Engineer](https://aiexpatjobs.com/jobs/13a3a2005191/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/scaleai/jobs/4720050005) |
 | **Speechmatics** | [ML Data & Platform Engineer](https://aiexpatjobs.com/jobs/52f2423b6788/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101) |
 | **Speechmatics** | [ML Data & Platform Engineer](https://aiexpatjobs.com/jobs/6724e017a084/) | Cambridge |  |  | 1 Oct | [Apply ↗](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101) |
@@ -443,8 +440,8 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **PolyAI** | [Forward Deployed Engineer, Agentic AI](https://aiexpatjobs.com/jobs/a4d2e1410aef/) | UK |  | 🆕 | 10 Nov | [Apply ↗](https://job-boards.eu.greenhouse.io/polyai/jobs/5032627101) |
 | **Sayari** | [Forward Deployed Engineer, Government Clients (UK)](https://aiexpatjobs.com/jobs/6c9b38a5352e/) | London |  | 🆕 | 10 Nov | [Apply ↗](https://job-boards.greenhouse.io/sayari/jobs/4208835009) |
 | **ElevenLabs** | [Forward Deployed Engineer - Software Engineer - United Kingdom](https://aiexpatjobs.com/jobs/29783c8ff9fb/) | London |  | 🆕 | 7 Nov | [Apply ↗](https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6) |
-| **Databricks** | [AI Forward Deployed Engineer](https://aiexpatjobs.com/jobs/cf9e33ddaee9/) | London |  | 🆕 | 4 Nov | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002) |
-| **Kong** | [Forward Deployed Engineer AI Gateway EMEA](https://aiexpatjobs.com/jobs/46cf736faae9/) | UK |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/kong/3e5ef5b8-686d-4915-b436-26bcd2140951) |
+| **Databricks** | [AI Forward Deployed Engineer](https://aiexpatjobs.com/jobs/cf9e33ddaee9/) | London |  |  | 4 Nov | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002) |
+| **Kong** | [Forward Deployed Engineer AI Gateway EMEA](https://aiexpatjobs.com/jobs/46cf736faae9/) | UK |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/kong/3e5ef5b8-686d-4915-b436-26bcd2140951) |
 | **Databricks** | [Senior Forward Deployed Engineer](https://aiexpatjobs.com/jobs/ee9763d267a9/) | London |  |  | 3 Nov | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8927390002) |
 | **Easol** | [Forward Deployed Engineer (London)](https://aiexpatjobs.com/jobs/1c4181c912ba/) | London |  |  | 3 Nov | [Apply ↗](https://jobs.eu.lever.co/easol/33ed92c7-f541-4c94-8ba9-9bdd8b16550b) |
 | **Amazon** | [Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed Engineering](https://aiexpatjobs.com/jobs/b8aff4fd2a5d/) | London |  |  | 1 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10592678/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering) |
@@ -456,7 +453,7 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Valarian** | [Senior Customer Deployment Engineer](https://aiexpatjobs.com/jobs/07e0358e50fd/) | London |  |  | 29 Oct | [Apply ↗](https://jobs.lever.co/valarian/9d1bab05-1086-4b0c-b1e6-fe475de995bd) |
 | **Databricks** | [Forward Deployed Engineer](https://aiexpatjobs.com/jobs/9e076b5045f9/) | London |  |  | 28 Oct | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002) |
 | **Databricks** | [Forward Deployed Engineering Manager](https://aiexpatjobs.com/jobs/181b1c3794d2/) | London |  |  | 27 Oct | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002) |
-| **Databricks** | [Senior Forward Deployed Engineer (Technical Data Architect)](https://aiexpatjobs.com/jobs/679f8b798da1/) | London |  |  | 27 Oct | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) |
+| **Databricks** | [Senior Forward Deployed Engineer (Full Stack Engineers)](https://aiexpatjobs.com/jobs/679f8b798da1/) | London |  |  | 27 Oct | [Apply ↗](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) |
 | **Lovable** | [Forward Deployed Engineering Lead](https://aiexpatjobs.com/jobs/8a0fa80f1a41/) | London |  |  | 27 Oct | [Apply ↗](https://jobs.ashbyhq.com/lovable/d06e485f-237e-4495-8675-79b7ad420051) |
 | **Amazon** | [Forward Deployed Engineer, AWS Forward Deployed Engineering](https://aiexpatjobs.com/jobs/4dd3e618454f/) | London |  |  | 1 Oct | [Apply ↗](https://www.amazon.jobs/en/jobs/10576495/forward-deployed-engineer-aws-forward-deployed-engineering) |
 | **Amazon** | [Robotics Deployment Engineer , Robotics Deployment, Packaging & Innovation - First Deployment Execution](https://aiexpatjobs.com/jobs/f4c13d63041b/) | London |  |  | 1 Oct | [Apply ↗](https://www.amazon.jobs/en/jobs/10417247/robotics-deployment-engineer-robotics-deployment-packaging-innovation-first-deployment-execution) |
@@ -522,7 +519,7 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 
 | Company | Role | Location | Pay | Notes | Added | |
 |---|---|---|---|---|---|---|
-| **PhysicsX** | [Principal Research Scientist](https://aiexpatjobs.com/jobs/6edb18e02529/) | London |  | 🆕 | 11 Nov | [Apply ↗](https://job-boards.eu.greenhouse.io/physicsx/jobs/4851193101) |
+| **PhysicsX** | [Senior Research Scientist](https://aiexpatjobs.com/jobs/6edb18e02529/) | London |  | 🆕 | 11 Nov | [Apply ↗](https://job-boards.eu.greenhouse.io/physicsx/jobs/4851193101) |
 | **Apollo Research** | [Lead Research Scientist/Engineer (Embedded Evaluations)](https://aiexpatjobs.com/jobs/ddd0ce4a1831/) | London | £160k–£590k | 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/7800a936-b216-4fcc-92f2-b6e496302b26) |
 | **Apollo Research** | [Research Scientist/Engineer (Fundamental Research)](https://aiexpatjobs.com/jobs/0a53dc6a3f3e/) | London | £160k–£395k | 🛂 ✈️ | 31 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/470d35f7-1caf-4138-b549-95109f45c617) |
 | **Apollo Research** | [Research Scientist (Control)](https://aiexpatjobs.com/jobs/6e86954fd3b4/) | London | £136k–£258k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://jobs.lever.co/apolloresearch/24d016aa-5a19-4976-8936-af2fbf748000) |
@@ -572,7 +569,6 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Monzo** | [Data Science Manager](https://aiexpatjobs.com/jobs/db7151e8e7e9/) | Cardiff · London · Remote (UK) | £100k–£130k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/7194922) |
 | **Monzo** | [Data Science Manager, Financial Crime](https://aiexpatjobs.com/jobs/0a3d7c5badea/) | Cardiff · London · Remote (UK) | £100k–£130k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
 | **Monzo** | [Lead Data Scientist](https://aiexpatjobs.com/jobs/ac87758c882b/) | Cardiff · London · Remote (UK) | £95k–£130k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/6369658) |
-| **Monzo** | [Senior Data Scientist](https://aiexpatjobs.com/jobs/0cbb0c315542/) | Cardiff · London · Remote (UK) | £80k–£95k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
 | **Monzo** | [Staff Data Scientist](https://aiexpatjobs.com/jobs/58b6bcba6f2a/) | Cardiff · London · Remote (UK) | £124k–£165k | 🛂 ✈️ | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/monzo/jobs/8232732) |
 | **Paddle** | [Head of Data Science](https://aiexpatjobs.com/jobs/d9beef359a86/) | UK |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/paddle/1f3ae2ca-b855-4451-9ed2-018f330baa14) |
 | **Qube Research & Technologies** | [Data Scientist](https://aiexpatjobs.com/jobs/0417545d0fc5/) | London |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6962479002) |
@@ -586,7 +582,7 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 
 ## 🇳🇱 Netherlands
 
-71 roles. Register checked 3 Nov 2026.
+70 roles. Register checked 3 Nov 2026.
 
 ### AI & ML engineering (NL)
 
@@ -597,9 +593,9 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Amazon** | [Associate Delivery Consultant AI/ML, A2C ProServe Shared Delivery (SDT)](https://aiexpatjobs.com/jobs/a9bfd8a60c56/) | Amsterdam |  | 🆕 | 9 Nov | [Apply ↗](https://www.amazon.jobs/en/jobs/10598632/associate-delivery-consultant-ai-ml-a2c-proserve-shared-delivery-sdt) |
 | **Prosus** | [ML Infrastructure & Acceleration Engineer - LLMs](https://aiexpatjobs.com/jobs/2826a6fd47c5/) | Amsterdam |  | 🆕 | 9 Nov | [Apply ↗](https://jobs.ashbyhq.com/prosus/fe279d3d-c747-4c91-a9fa-d2ec970ec671) |
 | **Indurex** | [Principal AI Engineer - Foundation Models & Agentic AI (Cyber-Physical Systems)](https://aiexpatjobs.com/jobs/8d0cfc1cafc6/) | Amsterdam |  | 🆕 | 7 Nov | [Apply ↗](https://indurex.recruitee.com/o/principal-ai-engineer-foundation-models-agentic-ai-cyber-physical-systems) |
-| **Mistral AI** | [Applied Scientist - Optimisation, EMEA](https://aiexpatjobs.com/jobs/1beaf467a15f/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/2ad44b54-079c-4ce6-8176-7d733a2b364a) |
-| **Mistral AI** | [Applied Scientist - Tabular Data, EMEA](https://aiexpatjobs.com/jobs/885325f480f4/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/6b1475e3-0dca-4e72-8ca2-586e0a099071) |
-| **Mistral AI** | [Applied Scientist Lead - Robotics, EMEA](https://aiexpatjobs.com/jobs/f2e2687119d0/) | London · Amsterdam |  | 🆕 | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/c5fd092e-adb9-4912-a1cb-b23f140183a3) |
+| **Mistral AI** | [Applied Scientist - Optimisation, EMEA](https://aiexpatjobs.com/jobs/1beaf467a15f/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/2ad44b54-079c-4ce6-8176-7d733a2b364a) |
+| **Mistral AI** | [Applied Scientist - Tabular Data, EMEA](https://aiexpatjobs.com/jobs/885325f480f4/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/6b1475e3-0dca-4e72-8ca2-586e0a099071) |
+| **Mistral AI** | [Applied Scientist Lead - Robotics, EMEA](https://aiexpatjobs.com/jobs/f2e2687119d0/) | London · Amsterdam |  |  | 4 Nov | [Apply ↗](https://jobs.ashbyhq.com/mistral.ai/c5fd092e-adb9-4912-a1cb-b23f140183a3) |
 | **TomTom** | [Senior AI Engineer](https://aiexpatjobs.com/jobs/b7f119238a21/) | Amsterdam |  |  | 3 Nov | [Apply ↗](https://jobs.eu.lever.co/tomtom/56f54a8f-ae0a-4c6f-9419-2f791d0874c7) |
 | **Nebius** | [Senior Technical Product Manager - Inference Platform](https://aiexpatjobs.com/jobs/433241e81940/) | Remote (UK) · Amsterdam · Remote (NL) · Berlin |  |  | 2 Nov | [Apply ↗](https://careers.nebius.com/?gh_jid=4921994101) |
 | **TomTom** | [Senior Applied Scientist](https://aiexpatjobs.com/jobs/fef631f82c39/) | Amsterdam |  |  | 2 Nov | [Apply ↗](https://jobs.eu.lever.co/tomtom/88c1b807-1b6d-439e-9700-4d7a8711927a) |
@@ -614,7 +610,6 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Adyen** | [Senior Machine Learning Engineer](https://aiexpatjobs.com/jobs/47c329931521/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/8288668) |
 | **Adyen** | [Senior Machine Learning Engineer - AML Tech](https://aiexpatjobs.com/jobs/679de3ed580e/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/8288674) |
 | **Adyen** | [Senior Machine Learning Scientist](https://aiexpatjobs.com/jobs/49eb85e7ab42/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/7864993) |
-| **Adyen** | [Senior Product Manager - Data, Machine Learning & GenAI Platform](https://aiexpatjobs.com/jobs/7e430bae91a6/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/8164042) |
 | **Amazon** | [Senior AI/ML Consultant, AWS Professional Services](https://aiexpatjobs.com/jobs/f5827f164712/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://www.amazon.jobs/en/jobs/10581183/senior-ai-ml-consultant-aws-professional-services) |
 | **Amazon** | [Senior GTM Specialist Solution Architect AI/ML, GenAI, EMEA Data and AI Solutions Architecture](https://aiexpatjobs.com/jobs/6a36fba169f8/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://www.amazon.jobs/en/jobs/10554421/senior-gtm-specialist-solution-architect-ai-ml-genai-emea-data-and-ai-solutions-architecture) |
 | **Catawiki** | [Senior Manager – Data Engineering & Machine Learning](https://aiexpatjobs.com/jobs/a6dcf343e279/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/catawiki/jobs/8288546) |
@@ -645,13 +640,13 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 | **Prosus** | [Developer Advocate, Toqan (Prosus AI Platform)](https://aiexpatjobs.com/jobs/9786a0463587/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/prosus/9e74dee2-08b6-4f99-8d84-171df8ff8064) |
 | **Prosus** | [Machine Learning Engineer - LLMs](https://aiexpatjobs.com/jobs/83b167a51ed3/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/prosus/82974fe4-b803-40ed-b916-b057b753ab37) |
 | **Prosus** | [Senior Machine Learning Engineer – LLMs](https://aiexpatjobs.com/jobs/b70e40afd6c8/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://jobs.ashbyhq.com/prosus/62b6f958-713f-4313-b73c-3b8202d9bbc8) |
-| **Reddit** | [Staff Machine Learning Engineer, Ads Foundational Representations](https://aiexpatjobs.com/jobs/9abafd0a2d7b/) | Remote (NL) |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/reddit/jobs/8018517) |
 | **TomTom** | [Senior Applied Scientist - Graph Optimization & Trace Alignment](https://aiexpatjobs.com/jobs/2982c885e169/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://jobs.eu.lever.co/tomtom/669fa744-174e-4682-81b3-fa85322cafc5) |
 
 ### Forward-deployed engineering (NL)
 
 | Company | Role | Location | Pay | Notes | Added | |
 |---|---|---|---|---|---|---|
+| **GitLab** | [Staff Forward Deployed Engineer, EMEA](https://aiexpatjobs.com/jobs/7bde335dfbbf/) | Remote (NL) · Germany |  | 🆕 | 12 Nov | [Apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8936153002) |
 | **Adyen** | [Senior Forward Deployed Engineer - Data Platform](https://aiexpatjobs.com/jobs/ae263d6f3d17/) | Amsterdam |  | 🆕 | 11 Nov | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/8379238) |
 | **Adyen** | [Senior Forward Deployed Engineer](https://aiexpatjobs.com/jobs/d89a405615bf/) | Amsterdam |  |  | 23 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/8002425) |
 | **Adyen** | [Head of Forward Deployed Engineering - Operations](https://aiexpatjobs.com/jobs/391c84a07f41/) | Amsterdam |  |  | 1 Oct | [Apply ↗](https://job-boards.greenhouse.io/adyen/jobs/7953778) |
@@ -679,7 +674,7 @@ Every company's register entry, check date and open roles: [aiexpatjobs.com/empl
 1. Every morning, roles are read from about 150 AI employers' own job boards (Greenhouse, Ashby, Lever and others). Only AI, ML, forward-deployed and data roles in the UK and the Netherlands are kept.
 2. Each employer is matched to the UK and Dutch sponsor registers by its legal entity name. Matches are reviewed by hand, because brand names rarely match legal names.
 3. An AI model reads each posting for stated pay and for sponsorship and relocation mentions. A role is left out for saying it can't sponsor only when that sentence is found in the posting. These notes can still be wrong, so always check the posting.
-4. A GitHub Action rebuilds this README from [aiexpatjobs.com/data/jobs.json](https://aiexpatjobs.com/data/jobs.json) every day. This version is from 11 November 2026.
+4. A GitHub Action rebuilds this README from [aiexpatjobs.com/data/jobs.json](https://aiexpatjobs.com/data/jobs.json) every day. This version is from 12 November 2026.
 
 Big employers on Workday or their own careers sites (for example Booking.com and ASML) aren't covered yet.
 
